@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+torch
+faiss-cpu
+lightgbm
+optuna
+shap
+mlflow
+plotly
