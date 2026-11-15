@@ -1,0 +1,7 @@
+Modelo,Recall@10,Precision@10,NDCG@10,MAP@10,HitRate@10
+Popularity,0.635,0.15,0.455,0.308,1.42
+Item-Based CF,27.252,3.785,24.975,23.064,31.933
+Matrix Factorization (SVD),2.422,0.443,1.834,1.483,3.287
+Two-Tower + FAISS,2.891,0.482,1.615,1.036,4.162
+Two-Tower + LightGBM (Base),7.579,1.198,7.253,6.592,9.743
+Two-Tower + LightGBM (Optuna),8.116,1.317,7.628,6.873,10.657
